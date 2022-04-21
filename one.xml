@@ -2,9 +2,9 @@
 
 <manifest>
 <remote name="Pr" fetch="https://github.com/PrajwalGoli" />
- <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="Pr" revision="twelve"/>
+ <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="Pr" revision="aosp"/>
 
-<project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="Pr" revision="test" />
+<project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="Pr" revision="12"/>
 
 <project path="kernel/xiaomi/lavender" name=*kernel_xiaomi_lavender-pred" remote="Pr" revision="A12"
 </manifest>/> 
