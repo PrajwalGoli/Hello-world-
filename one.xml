@@ -7,4 +7,4 @@
 <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="Pr" revision="12"/>
 
 <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender-pred" remote="Pr" revision="A12"
-</manifest/>
+</manifest>
