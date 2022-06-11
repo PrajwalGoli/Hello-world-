@@ -11,6 +11,6 @@
        <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="Pr" revision="12"/>
        <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender-pred" remote="Pr" revision="A12"/>
        <remove-project name="android_hardware_qcom_display" />
-       <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_msm8998_display" revision="twelve" remote="xs" />
+       <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_msm8998_display" remote="xs" revision="twelve" />
 
 </manifest>
